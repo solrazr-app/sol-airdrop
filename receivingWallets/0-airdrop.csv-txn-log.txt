@@ -1,0 +1,11 @@
+error: Invalid value for '<RECIPIENT_ADDRESS or RECIPIENT_TOKEN_ACCOUNT_ADDRESS>': unrecognized signer source
+End  6:08 54 PM PDT on Oct 28, 2021
+Transfer 5.34 tokens
+  Sender: 9CLvDZQpjpt3RyK2MRmZvorsjSsLUTqUtjbioPqunW6B
+  Recipient: HDDKYocZ137HQ4tFPmB52yxAthmqLnNXMEeJUiTMJxiQ
+  Recipient associated token account: 3MD6qsBeenMRmtRWLQxk8vRAzmGJnhxtap1tZ76uCxFm
+  Funding recipient: 3MD6qsBeenMRmtRWLQxk8vRAzmGJnhxtap1tZ76uCxFm (0.00203928 SOL)
+
+Signature: 5NEir4CsNmV7UeykVLgCUQ5wAM4UoBcVZWvRCHb9LobET6pkz3oQLZ81oW2twjCk4cbQTM3LQ7S9yEG2bTYDkhvA
+
+End  6:08 56 PM PDT on Oct 28, 2021
